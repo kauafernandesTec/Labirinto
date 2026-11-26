@@ -1,1 +1,1 @@
-# Labirinto
+Labirinto Curupiras
